@@ -1,5 +1,5 @@
-Status: work in progress
-Goal: Build a 2D platformer level editor and game that runs the levels
+# Status: work in progress
+# Goal: Build a 2D platformer level editor and game that runs the levels
 
 # current features:
   - Level editor
